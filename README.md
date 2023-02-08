@@ -23,4 +23,5 @@ pip install -U scikit-learn
 pip install numba
 pip install tqdm
 pip install xlrd
+pip install matplotlib
 ```
