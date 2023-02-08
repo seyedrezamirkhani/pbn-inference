@@ -9,3 +9,18 @@ You can install the package by doing `pip install git+https://github.com/UoS-PLC
 ## Example usage
 
 See `example.py`.
+
+## Development
+
+Install the following packages
+
+```
+pip install numpy
+pip install pandas
+pip install networkx
+pip install scipy
+pip install -U scikit-learn
+pip install numba
+pip install tqdm
+pip install xlrd
+```
